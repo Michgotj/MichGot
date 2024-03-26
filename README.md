@@ -1,6 +1,6 @@
 # MichGot
 
-I'm a tech and intellectual property lawyer who fell in love with coding and decided to focus on it. My passion lies in React, JavaScript, HTML, CSS, and Node.js, and I'm always eager to discover new libraries and tools to level up my programming skills and craft innovative solutions.
+I'm a tech and intellectual property lawyer who fell in love with coding and decided to focus on it. My passion lies in React JSX, JavaScript, HTML, CSS, and Node.js, and I'm always eager to discover new libraries and tools to level up my programming skills and craft innovative solutions.
 
 Combining my legal background with my coding enthusiasm, I bring a unique perspective to problem-solving and creativity in the tech world. My meticulous and detail-oriented nature, honed through my experience as a lawyer, enhances my ability to analyze complex problems and devise comprehensive solutions.
 
